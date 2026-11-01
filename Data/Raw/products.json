@@ -1,0 +1,38 @@
+[
+    {
+        "product_id": 101,
+        "name": "Laptop",
+        "category": "Electronics",
+        "details": {
+            "brand": "BrandA",
+            "warranty": "1 year"
+        }
+    },
+    {
+        "product_id": 102,
+        "name": "Phone",
+        "category": "Electronics",
+        "details": {
+            "brand": "BrandB",
+            "warranty": "2 years"
+        }
+    },
+    {
+        "product_id": 104,
+        "name": "Desk Chair",
+        "category": "Furniture",
+        "details": {
+            "brand": "BrandC",
+            "material": "Leather"
+        }
+    },
+    {
+        "product_id": 105,
+        "name": "Headphones",
+        "category": "Electronics",
+        "details": {
+            "brand": "BrandD",
+            "wireless": true
+        }
+    }
+]
