@@ -4,3 +4,4 @@
 # for transformation: missing product_id would already be null swhen using spark so nothing needed there
 # put schemas in seperate files for easier readabilility and easier to update
 # used distinct instead of drop duplicates because no need to specify on specific keys since whole rows data is duplicated. 
+# used tsql for sql tasks because required for task 6
